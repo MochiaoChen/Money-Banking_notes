@@ -1,0 +1,281 @@
+\chapter{银行业务 (Banking)}
+\label{chap:banking}
+
+% Chapter outline from slide 2
+% Part 1: Banking Activities
+% Part 2: Banking Management
+% Part 3: Financial Regulation
+
+\section{银行业务活动 (Banking Activities)}
+\label{sec:banking_activities}
+
+银行\index{银行!Bank}是一种获得许可、可以吸收存款和发放贷款的金融机构\index{金融机构!Financial Institution}。银行最常见的两种类型是商业银行\index{商业银行!Commercial Bank}（或称零售银行 \index{零售银行!Retail Bank}）和投资银行\index{投资银行!Investment Bank}。
+
+银行在经济中扮演着至关重要的角色，其核心经济功能包括：
+\begin{itemize}
+    \item \textbf{信用中介 (Credit Intermediation)：} 银行作为中介机构，以自身的账户借入和贷出资金，连接了资金的储蓄方和需求方。
+    \item \textbf{货币创造 (Money Creation)：} 在部分准备金银行制度\index{部分准备金银行制度!Fractional-Reserve Banking System}下，每当银行发出一笔贷款，一笔新的货币就被创造出来。
+    \item \textbf{提供金融服务 (Providing Financial Services)：} 包括支付清算与结算（如轧差结算）、发行借记卡和信用卡等。
+    \item \textbf{资产-负债错配/期限转换 (Asset-Liability Mismatch / Maturity Transformation)：} 银行吸收短期存款（负债），并将其转换为长期贷款（资产），这种期限转换是银行的核心功能之一。
+\end{itemize}
+
+
+\subsection{银行资产负债表 (The Bank Balance Sheet)}
+\label{subsec:balance_sheet}
+
+银行资产负债表\index{资产负债表!Balance Sheet}遵循会计恒等式：
+\begin{equation}
+    \text{总资产} = \text{总负债} + \text{所有者权益}
+\end{equation}
+\index{会计恒等式!Accounting Equation}
+资产负债表是理解银行业务运作的基础。资产代表银行资金的运用 (Uses of Funds)，而负债和所有者权益代表银行资金的来源 (Sources of Funds)。
+
+\subsubsection{负债与所有者权益 (Liabilities and Bank Capital)}
+银行通过吸收负债和所有者投入的资本来获取资金。
+
+\begin{description}
+    \item[活期存款 (Checkable Deposits)\index{活期存款!Checkable Deposits}]
+    允许储户随时签发支票或进行电子支付的账户，是银行成本最低的资金来源。
+
+    \item[非交易性存款 (Nontransaction Deposits)\index{非交易性存款!Nontransaction Deposits}]
+    不能直接用于交易支付的存款，是银行最主要的资金来源。包括：
+    \begin{itemize}
+        \item 储蓄账户 (Savings Accounts)
+        \item 定期存款 (Time Deposits)
+        \item 大额可转让存单 (Large-Denomination Time Deposits, CDs)\index{大额可转让存单!CDs}
+    \end{itemize}
+
+    \item[借款 (Borrowings)\index{借款!Borrowings}]
+    从中央银行、其他银行（同业拆借\index{同业拆借!Interbank Lending}）或通过发行债券获得的资金。
+
+    \item[银行资本 (Bank Capital)\index{银行资本!Bank Capital}]
+    即所有者权益 (Equity Capital)\index{所有者权益!Equity Capital}，是银行的净值。它由股东投入的资金和银行的留存收益构成，是银行抵御资产损失的缓冲垫。
+\end{description}
+
+\subsubsection{资产 (Assets)}
+银行将筹集到的资金运用于各种资产，以获取收益。
+
+\begin{description}
+    \item[准备金 (Reserves)\index{准备金!Reserves}]
+    银行持有的、用于满足储户提款和法定要求的资金。包括在中央银行的存款和库存现金 (Vault Cash)\index{库存现金!Vault Cash}。准备金分为法定准备金\index{法定准备金!Required Reserves}和超额准备金\index{超额准备金!Excess Reserves}。
+
+    \item[在途现金 (Cash Items in Process of Collection)]
+    银行已经收到但尚未从另一家银行收回的支票资金。
+
+    \item[存放同业 (Deposits at Other Banks)]
+    银行在其他商业银行的存款，主要用于便利支票清算等业务。
+
+    \item[证券 (Securities)\index{证券!Securities}]
+    银行持有的各类有价证券，主要是政府和机构发行的债券。这些证券流动性较高，是银行的二级准备金 (Secondary Reserves)\index{二级准备金!Secondary Reserves}。
+
+    \item[贷款 (Loans)\index{贷款!Loans}]
+    银行最主要的资产，也是其主要利润来源。贷款的流动性较差，且存在违约风险\index{违约风险!Default Risk}，因此收益率也最高。主要包括工商贷款、房地产贷款、消费贷款等。
+
+    \item[其他资产 (Other Assets)]
+    包括银行自有的建筑物、设备等实物资本。
+\end{description}
+
+
+\subsection{基础银行业务 (Basic Banking)}
+\label{subsec:basic_banking}
+银行通过吸收存款和发放贷款来创造利润。这个过程被称为\textbf{资产转换}\index{资产转换!Asset Transformation}：银行“出售”具有某种特性的负债（如安全性高的存款），并用所得收益“购买”具有不同特性的资产（如高收益的贷款）。简而言之，银行“借短贷长” (borrows short and lends long)。
+
+\begin{examplebox}{T型账户示例：银行如何盈利}
+假设法定准备金率\index{法定准备金率!Required Reserve Ratio}为10\%。
+\begin{enumerate}
+    \item \textbf{吸收存款：} 储户存入 \$100 现金。银行的库存现金（资产）增加 \$100，活期存款（负债）也增加 \$100。
+    
+    \begin{center}
+    % chktex-file 44
+    \begin{tabular}{|lr|lr|}
+    \hline
+    \multicolumn{2}{|c|}{\textbf{资产}} & \multicolumn{2}{c|}{\textbf{负债}} \\
+    \hline
+    准备金 & +\$100 & 活期存款 & +\$100 \\
+    \hline
+    \end{tabular}
+    \end{center}
+    
+    \item \textbf{发放贷款：} 在这 \$100 的准备金中，\$10 是法定准备金，其余 \$90 是超额准备金。银行可以将这 \$90 的超额准备金贷放出去以赚取利息。
+    \begin{center}
+    % chktex-file 44
+    \begin{tabular}{|lr|lr|}
+    \hline
+    \multicolumn{2}{|c|}{\textbf{资产}} & \multicolumn{2}{c|}{\textbf{负债}} \\
+    \hline
+    法定准备金 & +\$10 & 活期存款 & +\$100 \\
+    法定准备金 & +\$10 & 活期存款 & +\$100 \\
+    超额准备金 & +\$90 & & \\
+    \hline
+    \end{tabular}
+    \end{center}
+    
+    当银行发放贷款后，其资产负债表变为：
+    \begin{center}
+    \begin{tabular}{|lr|lr|}
+    \hline
+    \multicolumn{2}{|c|}{\textbf{资产}} & \multicolumn{2}{c|}{\textbf{负债}} \\
+    \hline
+    法定准备金 & +\$10 & 活期存款 & +\$100 \\
+    贷款 & +\$90 & & \\
+    \hline
+    \end{tabular}
+    \end{center}
+    银行通过贷款资产获得利息收入，同时向存款负债支付利息，二者之差构成了银行的主要利润来源。
+\end{enumerate}
+\end{examplebox}
+
+
+
+\section{银行管理 (Banking Management)}
+\label{sec:banking_management}
+
+银行管理的核心是在追求利润的同时，有效控制风险。这主要涉及流动性管理、资产管理、负债管理和资本充足性管理四个方面。
+
+\subsection{流动性管理 (Liquidity Management)}
+\label{subsec:liquidity_management}
+流动性管理\index{流动性管理!Liquidity Management}旨在确保银行有足够的现金资产来应对储户的提款需求（存款外流 \index{存款外流!Deposit Outflow}）。
+
+当银行面临准备金短缺时，有四种主要应对方式：
+\begin{enumerate}
+    \item \textbf{同业拆借或向央行借款：} 从其他银行或中央银行（通过贴现窗口\index{贴现窗口!Discount Window}）借入资金。成本是需要支付的利息（如联邦基金利率\index{联邦基金利率!Federal Funds Rate}或贴现率\index{贴现率!Discount Rate}）。
+    \item \textbf{出售证券：} 出售其持有的流动性较高的证券。成本是交易费用和可能的资本损失。
+    \item \textbf{收回或出售贷款：} 这是成本最高的方式。提前收回贷款会损害客户关系；将贷款出售给其他银行通常需要大幅折价。
+\end{enumerate}
+因此，持有充足的\textbf{超额准备金}\index{超额准备金!Excess Reserves}可以作为一种保险，以应对存款外流带来的成本。
+
+\subsection{资产管理 (Asset Management)}
+\label{subsec:asset_management}
+资产管理\index{资产管理!Asset Management}的目标是在可接受的风险水平内，实现资产组合的最高回报。银行通常遵循四个原则：
+\begin{enumerate}
+    \item \textbf{寻找优质借款人：} 找到愿意支付高利率且违约可能性低的借款人。
+    \item \textbf{购买高收益、低风险的证券。}
+    \item \textbf{资产多样化 (Diversifying)：} 通过构建多样化的资产组合来降低风险。
+    \item \textbf{平衡流动性需求与收益性：} 在流动性需求和高收益的非流动性资产之间取得平衡。
+\end{enumerate}
+
+\subsection{负债管理 (Liability Management)}
+\label{subsec:liability_management}
+负债管理\index{负债管理!Liability Management}是一种较为现代的银行管理方法。随着货币中心银行\index{货币中心银行!Money Center Bank}的兴起和隔夜贷款市场的发展，银行不再仅仅被动地接受存款，而是主动地通过发行大额CD或在同业市场上借款等方式来管理其负债，以满足贷款需求和流动性需求。
+
+\subsection{资本充足性管理 (Capital Adequacy Management)}
+\label{subsec:capital_adequacy}
+资本充足性管理\index{资本充足性管理!Capital Adequacy Management}至关重要，因为它关系到银行的生存能力和股东回报。
+\begin{enumerate}
+    \item \textbf{防止银行破产：} 银行资本是吸收资产损失的缓冲垫。资本越充足，银行抵御风险、避免破产的能力就越强。
+    \item \textbf{影响股东回报：} 银行所有者（股东）的回报受资本水平的影响。
+    \item \textbf{满足监管要求：} 银行必须满足监管机构设定的最低资本要求。
+\end{enumerate}
+银行的盈利能力通常用以下指标衡量：
+\begin{itemize}
+    \item \textbf{资产收益率 (Return on Assets, ROA)\index{资产收益率!ROA}}
+    \begin{equation}
+        \text{ROA} = \frac{\text{税后净利润}}{\text{资产总额}}
+    \end{equation}
+    \item \textbf{净资产收益率 (Return on Equity, ROE)\index{净资产收益率!ROE}}
+    \begin{equation}
+        \text{ROE} = \frac{\text{税后净利润}}{\text{所有者权益}}
+    \end{equation}
+    \item \textbf{权益乘数 (Equity Multiplier, EM)\index{权益乘数!EM}}
+    \begin{equation}
+        \text{EM} = \frac{\text{资产总额}}{\text{所有者权益}}
+    \end{equation}
+\end{itemize}
+这三者之间的关系是： $\text{ROE} = \text{ROA} \times \text{EM}$。
+这个关系揭示了银行在安全性和盈利性之间的\textbf{权衡 (Trade-off)}。较高的资本水平（较低的EM）意味着银行更安全，但股东回报率（ROE）较低。反之，较低的资本水平（较高的EM）会放大股东的回报，但也增加了银行的破产风险。
+
+\subsection{信用风险管理 (Managing Credit Risk)}
+\label{subsec:credit_risk}
+信用风险\index{信用风险!Credit Risk}是借款人无法按时偿还贷款的风险。银行通过以下方式管理信用风险：
+\begin{itemize}
+    \item \textbf{筛选和监督 (Screening and Monitoring)：} 解决逆向选择\index{逆向选择!Adverse Selection}和道德风险\index{道德风险!Moral Hazard}问题。
+    \item \textbf{建立长期客户关系 (Long-term Customer Relationships)。}
+    \item \textbf{贷款承诺 (Loan Commitments)。}
+    \item \textbf{要求抵押品和补偿性余额 (Collateral and Compensating Balances)。}
+    \item \textbf{信用配给 (Credit Rationing)：} 拒绝向某些借款人发放贷款，即使他们愿意支付更高的利率。
+\end{itemize}
+
+\subsection{利率风险管理 (Managing Interest-Rate Risk)}
+\label{subsec:interest_rate_risk}
+利率风险\index{利率风险!Interest-Rate Risk}是利率波动对银行盈利能力和净值造成负面影响的风险。
+\begin{description}
+    \item[缺口分析 (Gap Analysis)\index{缺口分析!Gap Analysis}]
+    这是一种衡量利率变动对银行利润影响的方法。
+    \begin{equation}
+        \Delta \text{利润} = (\text{利率敏感性资产} - \text{利率敏感性负债}) \times \Delta i
+    \end{equation}
+    其中，括号内的部分被称为“缺口”(GAP)。如果银行的利率敏感性负债多于利率敏感性资产（负缺口），那么利率上升将导致银行利润下降。
+
+    \item[久期分析 (Duration Analysis)\index{久期分析!Duration Analysis}]
+    这是一种衡量利率变动对银行净值（市值）影响的方法。基本公式为：
+    \begin{equation}
+        \% \Delta P \approx - \text{DUR} \times \frac{\Delta i}{1+i}
+    \end{equation}
+    其中 $\% \Delta P$ 是证券市值的百分比变化，$\text{DUR}$ 是久期。久期分析通过比较资产组合的加权平均久期和负债组合的加权平均久期，来评估银行净值对利率变动的敏感性。
+\end{description}
+
+\subsection{表外业务 (Off-Balance-Sheet Activities)}
+\label{subsec:off_balance_sheet}
+表外业务\index{表外业务!Off-Balance-Sheet Activities}是指不直接记录在银行资产负债表上，但仍会影响银行利润和风险的业务活动。
+\begin{itemize}
+    \item \textbf{贷款销售 (Loan Sales)：} 将贷款打包出售给其他投资者。
+    \item \textbf{手续费和佣金收入 (Generation of Fee Income)：} 如提供备用信用证\index{备用信用证!Letter of Credit}、交易服务等。
+    \item \textbf{交易活动 (Trading Activities)：} 涉及金融衍生品（如期货、期权、互换）的交易，这可能带来高收益，但也伴随着巨大的风险，并可能引发委托-代理问题\index{委托-代理问题!Principal-Agent Problem}。
+\end{itemize}
+为了控制表外业务的风险，银行需要建立强大的内部控制机制，如分离交易和记账部门、设置风险敞口限额、使用风险价值 (Value-at-Risk, VaR)\index{风险价值!VaR}模型和进行压力测试 (Stress Testing)\index{压力测试!Stress Testing}。
+
+\begin{remark}[影子银行 (Shadow Banking)]
+影子银行\index{影子银行!Shadow Banking}是指游离于传统银行监管体系之外，从事信用中介活动的机构或业务。它们通过资产证券化\index{资产证券化!Securitization}等方式创造信用，可能引发系统性风险\index{系统性风险!Systemic Risk}。例如，将贷款池打包成资产支持证券 (Asset-backed Securities, ABS)\index{资产支持证券!ABS}，再出售给投资者，就是一种典型的影子银行业务。
+\end{remark}
+
+\section{金融监管 (Financial Regulation)}
+\label{sec:financial_regulation}
+由于金融市场中存在严重的信息不对称\index{信息不对称!Asymmetric Information}问题，金融监管成为维护金融稳定的必要手段。
+
+\subsection{政府安全网 (Government Safety Net)}
+\label{subsec:safety_net}
+为防止银行挤兑\index{银行挤兑!Bank Run}和金融恐慌\index{金融恐慌!Financial Panic}，政府设立了安全网。
+\begin{itemize}
+    \item \textbf{存款保险 (Deposit Insurance)\index{存款保险!Deposit Insurance}：} 如美国的联邦存款保险公司 (FDIC) 和中国的存款保险制度。它向存款人保证，即使银行破产，其一定额度内的存款也能得到偿付。这有效避免了因信息不对称导致的银行挤兑。
+    \item \textbf{最后贷款人 (Lender of Last Resort)\index{最后贷款人!Lender of Last Resort}：} 中央银行向面临流动性危机但有偿付能力的银行提供贷款，以防止危机蔓延。
+\end{itemize}
+然而，政府安全网也带来了\textbf{道德风险}和\textbf{逆向选择}问题。例如，存款保险可能使银行有动机承担更高风险（因为存款人无需监督银行），并可能吸引风险偏好者进入银行业。此外，“大而不能倒” (“Too Big to Fail”)\index{大而不能倒!Too Big to Fail}问题加剧了大型金融机构的道德风险。
+
+\subsection{金融监管的类型 (Types of Financial Regulation)}
+\label{subsec:types_of_regulation}
+\begin{itemize}
+    \item \textbf{资产持有限制 (Restrictions on Asset Holdings)：} 禁止银行持有高风险资产（如股票），并要求资产多样化，以减少风险。
+    \item \textbf{资本金要求 (Capital Requirements)\index{资本金要求!Capital Requirements}：} 要求银行持有最低水平的资本。主要有两种形式：
+        \begin{enumerate}
+            \item \textbf{杠杆率 (Leverage Ratio)\index{杠杆率!Leverage Ratio}：} 资本与总资产的比率。
+            \item \textbf{基于风险的资本要求 (Risk-Based Capital Requirements)：} 即《巴塞尔协议》\index{巴塞尔协议!Basel Accord}所倡导的，根据资产的风险水平来决定应持有的资本量。
+        \end{enumerate}
+    \item \textbf{金融监管审查 (Financial Supervision)：}
+        \begin{itemize}
+            \item \textbf{执照审批 (Chartering)：} 通过严格的审批程序防止风险爱好者进入银行业。
+            \item \textbf{现场和非现场检查 (Examinations)：} 定期和不定期地对银行进行检查，以监督其资本充足率、资产质量、管理水平等。
+        \end{itemize}
+    \item \textbf{信息披露要求 (Disclosure Requirements)：} 要求银行遵循标准会计准则，并向公众披露足够的信息，以便市场对银行进行监督。
+    \item \textbf{消费者保护 (Consumer Protection)：} 通过立法保护金融消费者免受不公平或欺诈性行为的侵害。
+    \item \textbf{竞争限制 (Restrictions on Competition)：} 过去曾通过限制分支机构和实行分业经营（如美国的《格拉斯-斯蒂格尔法案》\index{格拉斯-斯蒂格尔法案!Glass-Steagall Act}）来限制竞争，认为过度竞争会激励银行承担更高风险。但这些限制也可能导致效率低下和消费者成本上升。
+    \item \textbf{宏观审慎与微观审慎监管 (Macroprudential vs. Microprudential Supervision)\index{宏观审慎监管!Macroprudential Supervision}\index{微观审慎监管!Microprudential Supervision}：} 微观审慎监管关注单个金融机构的安全，而宏观审慎监管关注整个金融体系的稳定，防范系统性风险。
+\end{itemize}
+
+\subsection{巴塞尔协议 (Basel Accord)}
+\label{subsec:basel_accord}
+《巴塞尔协议》是由巴塞尔银行监管委员会\index{巴塞尔银行监管委员会!BCBS}制定的全球性银行资本监管标准。
+
+\textbf{《巴塞尔协议III》 (Basel III)}\index{巴塞尔协议!Basel III}是在2008年全球金融危机后推出的，旨在全面加强对银行的监管。其核心原则包括：
+\begin{enumerate}
+    \item \textbf{更高的资本要求：} 不仅提高了资本充足率的最低要求，更强调资本的质量，核心一级资本\index{核心一级资本!Common Equity Tier 1}成为最重要的部分。引入了资本留存缓冲 (Capital Conservation Buffer)\index{资本留存缓冲!Capital Conservation Buffer}和逆周期资本缓冲 (Countercyclical Capital Buffer)\index{逆周期资本缓冲!Countercyclical Capital Buffer}。
+    \item \textbf{引入流动性监管标准：}
+        \begin{itemize}
+            \item \textbf{流动性覆盖率 (Liquidity Coverage Ratio, LCR)\index{流动性覆盖率!LCR}：} 要求银行持有足够的高质量流动性资产，以应对30天的短期压力情景。
+            \item \textbf{净稳定资金比率 (Net Stable Funding Ratio, NSFR)\index{净稳定资金比率!NSFR}：} 要求银行在一年内保持稳定的资金来源，以支持其资产业务。
+        \end{itemize}
+    \item \textbf{引入杠杆率作为补充：} 引入最低杠杆率要求，作为风险加权资本充足率的补充，以防止银行过度承担风险。
+    \item \textbf{对系统重要性银行 (Systemically Important Banks, SIBs)\index{系统重要性银行!SIBs}的附加要求：} 要求全球系统重要性银行 (G-SIBs) 持有更高的附加资本。
+\end{enumerate}
+中国也根据《巴塞尔协议III》的精神，出台了《商业银行资本管理办法》，对国内商业银行的资本充足率、杠杆率等提出了明确的监管要求。
+
+\end{chapter}

@@ -1,0 +1,122 @@
+\contentsline {chapter}{\numberline {1}货币 (Money)}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}导言：为何从货币开始？}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}货币的含义 (The Meaning of Money)}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}货币的职能 (Functions of Money)}{2}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}交易媒介 (Medium of Exchange)}{2}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}计价单位 (Unit of Account)}{2}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}价值贮藏 (Store of Value)}{2}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}延期支付标准 (Standard of Deferred Payment)}{3}{subsection.1.3.4}%
+\contentsline {section}{\numberline {1.4}支付体系的演变 (Evolution of the Payments System)}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.5}货币的计量 (Measuring Money)}{4}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}美国的货币总量 (The Federal Reserve's Monetary Aggregates)}{5}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}我国的货币层次 (China's Monetary Aggregates)}{5}{subsection.1.5.2}%
+\contentsline {section}{\numberline {1.6}金属货币制度 (System of Metallic Money)}{6}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}金本位制 (The Gold Standard)}{6}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}布雷顿森林体系 (The Bretton Woods System)}{6}{subsection.1.6.2}%
+\contentsline {section}{\numberline {1.7}信用货币制度 (System of Fiat Money)}{7}{section.1.7}%
+\contentsline {chapter}{\numberline {2}金融中介机构 (Financial Intermediaries)}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}金融体系概览 (An Overview of the Financial System)}{9}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}金融市场 (Financial Markets)}{10}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}金融中介 (Financial Intermediaries)}{10}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}全球金融结构的基本事实 (Basic Facts about Financial Structure)}{11}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}金融中介理论 (Theory of Financial Intermediaries)}{11}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}交易成本 (Transaction Costs)}{12}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}信息不对称：逆向选择与道德风险}{12}{subsection.2.2.2}%
+\contentsline {subsubsection}{解决逆向选择问题的工具}{13}{section*.3}%
+\contentsline {subsubsection}{道德风险及其解决方案}{13}{section*.4}%
+\contentsline {paragraph}{股权合约中的道德风险：委托-代理问题}{13}{section*.5}%
+\contentsline {paragraph}{解决委托-代理问题的工具}{13}{section*.6}%
+\contentsline {paragraph}{债务合约中的道德风险}{14}{section*.7}%
+\contentsline {paragraph}{解决债务合约中道德风险的工具}{14}{section*.8}%
+\contentsline {subsection}{\numberline {2.2.3}金融排斥与普惠金融 (Financial Exclusion vs. Financial Inclusion)}{14}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}金融中介的类型 (Types of Financial Intermediaries)}{15}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}中国金融机构体系的构成}{15}{subsection.2.3.1}%
+\contentsline {subsubsection}{银行金融机构 (Banking Institutions)}{16}{section*.9}%
+\contentsline {subsubsection}{非银行金融机构 (Non-bank Financial Institutions)}{16}{section*.10}%
+\contentsline {subsection}{\numberline {2.3.2}金融科技 (Financial Technology, FinTech)}{17}{subsection.2.3.2}%
+\contentsline {chapter}{\numberline {3}利率 (Interest Rates)}{19}{chapter.3}%
+\contentsline {section}{\numberline {3.1}利率的含义 (The Meaning of Interest Rates)}{19}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}什么是利率？ (What Is an Interest Rate?)}{19}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}利率的主要类型 (Main Types of Interest Rates)}{19}{subsection.3.1.2}%
+\contentsline {subsubsection}{基准利率 (Interest Rate Benchmarks)}{19}{section*.11}%
+\contentsline {subsubsection}{名义利率与实际利率 (Nominal and Real Interest Rates)}{20}{section*.12}%
+\contentsline {section}{\numberline {3.2}利率的计算 (Calculations of Interest Rates)}{21}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}单利与复利 (Simple and Compound Interest)}{21}{subsection.3.2.1}%
+\contentsline {subsubsection}{计息周期 (Compounding Periods)}{21}{section*.13}%
+\contentsline {subsection}{\numberline {3.2.2}终值与现值 (Future Value and Present Value)}{22}{subsection.3.2.2}%
+\contentsline {subsubsection}{终值 (Future Value)}{22}{section*.14}%
+\contentsline {paragraph}{应用：年金的终值 (Application: The Future Value of an Annuity)}{22}{section*.15}%
+\contentsline {subsubsection}{现值 (Present Value)}{23}{section*.16}%
+\contentsline {paragraph}{应用：年金的现值 (Application: The Present Value of an Annuity)}{23}{section*.17}%
+\contentsline {paragraph}{永续年金 (Perpetual Annuity)}{23}{section*.18}%
+\contentsline {subsection}{\numberline {3.2.3}到期收益率 (Yield to Maturity)}{23}{subsection.3.2.3}%
+\contentsline {subsubsection}{不同信用工具的到期收益率 (YTM for Different Credit Market Instruments)}{24}{section*.19}%
+\contentsline {paragraph}{永续债券 (Perpetual Bond)}{24}{section*.20}%
+\contentsline {subsection}{\numberline {3.2.4}利率与回报率的区别 (The Distinction Between Interest Rates and Returns)}{25}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}利率的行为 (The Behavior of Interest Rates)}{25}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}资产需求的决定因素 (Determinants of Asset Demand)}{26}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}债券市场的供给与需求 (Supply and Demand in the Bond Market)}{26}{subsection.3.3.2}%
+\contentsline {subsubsection}{市场均衡 (Market Equilibrium)}{27}{section*.21}%
+\contentsline {subsubsection}{债券需求曲线的移动 (Shifts in the Demand Curve for Bonds)}{27}{section*.22}%
+\contentsline {subsubsection}{债券供给曲线的移动 (Shifts in the Supply Curve for Bonds)}{27}{section*.23}%
+\contentsline {subsubsection}{供求分析的应用 (Applications of Supply and Demand Analysis)}{28}{section*.24}%
+\contentsline {subsection}{\numberline {3.3.3}货币市场的供给与需求：流动性偏好框架 (The Liquidity Preference Framework)}{28}{subsection.3.3.3}%
+\contentsline {subsubsection}{均衡利率的变化 (Changes in Equilibrium Interest Rates)}{28}{section*.25}%
+\contentsline {subsubsection}{货币供给增长会降低利率吗？(Does Money Growth Lower Interest Rates?)}{29}{section*.26}%
+\contentsline {section}{\numberline {3.4}利率的风险结构 (Risk Structure of Interest Rates)}{29}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}违约风险 (Default Risk)}{29}{subsection.3.4.1}%
+\contentsline {subsubsection}{债券评级 (Bond Ratings)}{30}{section*.27}%
+\contentsline {subsection}{\numberline {3.4.2}流动性 (Liquidity)}{30}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}所得税因素 (Income Tax Considerations)}{30}{subsection.3.4.3}%
+\contentsline {section}{\numberline {3.5}利率的期限结构 (Term Structure of Interest Rates)}{31}{section.3.5}%
+\contentsline {subsubsection}{关于期限结构的事实 (Facts About the Term Structure)}{31}{section*.28}%
+\contentsline {subsection}{\numberline {3.5.1}纯粹预期理论 (Expectations Theory)}{31}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}市场分割理论 (Segmented Markets Theory)}{32}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}流动性溢价理论 (Liquidity Premium Theory)}{32}{subsection.3.5.3}%
+\contentsline {subsubsection}{应用：收益率曲线作为经济预测工具 (Application: Yield Curve as a Forecasting Tool)}{33}{section*.29}%
+\contentsline {chapter}{\numberline {4}金融市场 (Financial Markets)}{35}{chapter.4}%
+\contentsline {section}{\numberline {4.1}金融体系的资金流动与市场结构}{35}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}金融市场的结构 (Structure of Financial Markets)}{36}{subsection.4.1.1}%
+\contentsline {section}{\numberline {4.2}第一部分：货币市场 (Money Markets)}{37}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}货币市场工具 (Money Market Instruments)}{37}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}重要的货币市场利率}{38}{subsection.4.2.2}%
+\contentsline {subsubsection}{联邦基金利率 (Federal Funds Rate)}{38}{section*.30}%
+\contentsline {subsubsection}{伦敦银行同业拆借利率 (LIBOR)}{38}{section*.31}%
+\contentsline {subsubsection}{上海银行间同业拆借利率 (SHIBOR)}{38}{section*.32}%
+\contentsline {subsubsection}{中国的回购市场利率：R007 与 DR007}{39}{section*.33}%
+\contentsline {subsection}{\numberline {4.2.3}中央银行在货币市场中的角色}{39}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}第二部分：债券市场 (Bond Markets)}{40}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}资本市场概述}{40}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}中国债券种类}{40}{subsection.4.3.2}%
+\contentsline {subsubsection}{政府债券 (Government Bonds)}{41}{section*.34}%
+\contentsline {subsubsection}{金融债券 (Financial Bonds)}{41}{section*.35}%
+\contentsline {subsubsection}{信用债券 (Credit Bonds)}{42}{section*.36}%
+\contentsline {section}{\numberline {4.4}第三部分：股票市场 (Stock Markets)}{42}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}股票的基本概念 (Basic Concepts of Stocks)}{42}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}股票估值 (Stock Valuation)}{43}{subsection.4.4.2}%
+\contentsline {subsubsection}{市盈率法 (Price-to-Earnings Ratio, P/E)}{43}{section*.37}%
+\contentsline {subsubsection}{股利贴现模型 (Dividend Discount Model, DDM)}{43}{section*.38}%
+\contentsline {subsection}{\numberline {4.4.3}股票市场指数 (Stock Market Indexes)}{44}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}第四部分：金融衍生品 (Financial Derivatives)}{45}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}期货 (Futures)}{46}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}期权 (Options)}{46}{subsection.4.5.2}%
+\contentsline {section}{\numberline {4.6}货币市场与资本市场的比较}{46}{section.4.6}%
+\contentsline {section}{\numberline {4.7}本章小结 (Summary)}{47}{section.4.7}%
+\contentsline {chapter}{\numberline {5}银行业务 (Banking)}{49}{chapter.5}%
+\contentsline {section}{\numberline {5.1}银行业务活动 (Banking Activities)}{49}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}银行资产负债表 (The Bank Balance Sheet)}{49}{subsection.5.1.1}%
+\contentsline {subsubsection}{负债与所有者权益 (Liabilities and Bank Capital)}{50}{section*.39}%
+\contentsline {subsubsection}{资产 (Assets)}{50}{section*.40}%
+\contentsline {subsection}{\numberline {5.1.2}基础银行业务 (Basic Banking)}{51}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}银行管理 (Banking Management)}{52}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}流动性管理 (Liquidity Management)}{52}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}资产管理 (Asset Management)}{52}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}负债管理 (Liability Management)}{53}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}资本充足性管理 (Capital Adequacy Management)}{53}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}信用风险管理 (Managing Credit Risk)}{54}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}利率风险管理 (Managing Interest-Rate Risk)}{54}{subsection.5.2.6}%
+\contentsline {subsection}{\numberline {5.2.7}表外业务 (Off-Balance-Sheet Activities)}{55}{subsection.5.2.7}%
+\contentsline {section}{\numberline {5.3}金融监管 (Financial Regulation)}{55}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}政府安全网 (Government Safety Net)}{55}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}金融监管的类型 (Types of Financial Regulation)}{56}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}巴塞尔协议 (Basel Accord)}{57}{subsection.5.3.3}%
